@@ -1,0 +1,13 @@
+No Student_number First_name          Phone_number        Mark 
+1  20181110       Bui_Van             0903112234          44.00
+2  20182111       Joshua_Kim          0912123232          5.00 
+3  20205136       Le_Anh_Tuan         0389935193          4.00 
+4  20205135       Tran_Tien_Ngoc      0123456789          3.00 
+5  20205134       Vu_Anh_Quan         0916064413          6.00 
+6  20205123       Tran_Minh_Tuan      0998877665          7.00 
+7  20205555       Pham_Duc_Thang      0987654321          8.00 
+8  20202020       Hoang_Nhu_Nghia     0999999999          9.00 
+9  20202021       Nguyen_Quang_Truong 0989898989          5.00 
+10 20206789       Hoang_Danh_Quan     0909090909          4.00 
+11 20244053       Nguyen_Hoang_Hieu   0969696333          5.00 
+12 20214005       Le_Dac_Nam          0934847832          6.00 
