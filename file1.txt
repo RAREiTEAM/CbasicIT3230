@@ -1,0 +1,5 @@
+1 samsung_televison 10000000
+2 iphone_13 20000000
+3 xiaomi_note_10 12000000
+
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
